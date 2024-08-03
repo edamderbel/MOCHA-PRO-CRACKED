@@ -17,7 +17,7 @@
 2. Open The Installer 
 
 
-## Cellebrite UFED - Activation license
+## MOCHA PRO - Activation license
 
 # Requirements:
 Windows 7/10/11
